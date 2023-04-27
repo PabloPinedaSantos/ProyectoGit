@@ -1,4 +1,4 @@
-alter('hola');
+
 const name ="juanfran";
 
 
